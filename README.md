@@ -11,3 +11,4 @@ Techniques of semantic segmentation
 TensorFlow
 ### Tian Chen
 ### Wenke Huang
+[逻辑斯谛回归与最大熵模型](https://github.com/Raindow/DL-ML-Conference/blob/master/2020.7.19/%E9%80%BB%E8%BE%91%E6%96%AF%E8%92%82%E5%9B%9E%E5%BD%92%E4%B8%8E%E6%9C%80%E5%A4%A7%E7%86%B5%E6%A8%A1%E5%9E%8B.pdf)
