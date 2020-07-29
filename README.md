@@ -19,3 +19,9 @@ TensorFlow
 图像处理算法
 ### Tian Chen
 ### Wenke Huang
+
+## 8.2 Conference
+### Zekun Shi
+### Tian Chen
+### Wenke Huang
+[计算机视觉基础知识汇总](https://github.com/WenkeHuang/Encyclopedia-of-Artificial-Intelligence/blob/master/Deep%20Learning/Convolutional%20Neural%20Networks.md)
